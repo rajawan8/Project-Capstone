@@ -1,4 +1,4 @@
-# Udacity---Capstone-Project-Predicting-Customer-Churn-using-Pyspark
+#Project - Capstone
 Predicting Customer Churn using Pyspark : Sparkify
 
 # Table of Contents:
