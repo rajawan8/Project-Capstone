@@ -1,4 +1,4 @@
-#Project - Capstone
+# Project - Capstone
 #Predicting Customer Churn using Pyspark : Sparkify
 
 # Table of Contents:
