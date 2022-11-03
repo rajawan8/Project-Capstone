@@ -1,5 +1,5 @@
 #Project - Capstone
-Predicting Customer Churn using Pyspark : Sparkify
+#Predicting Customer Churn using Pyspark : Sparkify
 
 # Table of Contents:
 
