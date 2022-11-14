@@ -23,7 +23,7 @@ We determine our winning model, a tuned version of the Logistic Regression model
 
 
 ### Results
-The winning model for churn prediction is a tuned Logistic Regression Model that achieves an Accuracy of 0.75 and a F1 score of 0.70 on the validation set. 
+The winning model for churn prediction is a tuned Logistic Regression Model that achieves an Accuracy of 0.76 and a F1 score of 0.70 on the validation set. 
 
 for comparison 
 
@@ -66,7 +66,3 @@ The data is provided by Udacity.
 I would like to express my sincere gratitude to Udacity for providing the data and to IBM Watson for cooperating with Udacity and providing free cloud services essential for this project.  
 
  
-
-![grafik](https://user-images.githubusercontent.com/59873708/127336175-2dfef549-206b-48f4-9327-482a62f764cb.png)
-
-![grafik](https://user-images.githubusercontent.com/59873708/127336861-d1829fa4-2a2e-4d33-b12f-08f4fcf000f1.png)
